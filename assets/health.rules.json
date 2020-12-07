@@ -881,12 +881,13 @@
   			 "symptoms.reason": "A sua situação foi alterada para Laranja porque você relatou sintomas que são características do vírus.",
   			 "exposure.step.html": "<h3>É provável que você tem sido exposto a uma pessoa infetada por COVID-19.</h3><ul><h6><li>É preciso isolar-se imediatamente.</li></h6><h6><li>Fique em casa. Não vai ao trabalho, às aulas ou a áreas públicas.</li></h6><h6><li>Isole-se dos outros em casa.</li></h6><h6><li>Entre em contato com <a href='mailto:covidwellness@illinois.edu'>covidwellness@illinois.edu</a> para aconselhamento.</li></h6><h6><li>Faça um teste {data_de próximo_passo} para ver se você contraiu a doença.</li></h6><h6><li>Mais informações: <a href='https://covid19.illinois.edu/health-and-support/quarantine-and-isolation/'>Quarantine and Isolation</a></li></h6></ul>",
   			 "exposure.reason": "A sua situação foi alterada para Laranja porque você recebeu um aviso de exposição.",
-  			 "quarantine-on.step": "Fique em casa e evite contatos.",
-  			 "quarantine-on.reason": "A sua situação foi alterada para Laranja porque o Departamento de Saúde Pública o colocou em Quarentena."
+  			"quarantine-on.step": "Fique em casa e evite contatos.",
+  			"quarantine-on.reason": "A sua situação foi alterada para Laranja porque o Departamento de Saúde Pública o colocou em Quarentena."
 		
 		},
 		"jp: {
 			INSERT JAPANESE HERE
+			
 		
 		},
 		"ru: {
