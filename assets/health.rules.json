@@ -883,6 +883,27 @@
   			"exposure.reason": "A sua situação foi alterada para Laranja porque você recebeu um aviso de exposição.",
   			"quarantine-on.step": "Fique em casa e evite contatos.",
   			"quarantine-on.reason": "A sua situação foi alterada para Laranja porque o Departamento de Saúde Pública o colocou em Quarentena."
+	                "symptoms.no-symptoms": "Nenhuns sintomas",
+			"symptoms.fever": "Febre",
+			"symptoms.chills": "Arrepios",
+			"symptoms.shaking-or-shivering": "Tremores",
+			"symptoms.shortness-of-breath": "Falta de ar",
+			"symptoms.difficulty-breathing": "Dificuldade de respiração",
+			"symptoms.muscle-or-joint-pain": "Dor muscular ou articular",
+			"symptoms.loss-of-taste-and-or-smell": "Perda do gusto ou olfato",
+			"symptoms.fever-or-chills": "Febre ou arrepios",
+			"symptoms.cough": "Tosse",
+			"symptoms.shortness-of-breath-or-difficulty-breathing": "Falta de ar ou dificuldade de respiração",
+			"symptoms.fatigue": "Fadiga",
+			"symptoms.muscle-or-body-aches": "Dor muscular ou no corpo",
+			"symptoms.headache": "Dor de cabeça",
+			"symptoms.new-loss-of-taste-or-smell": "Perda repetida do gusto ou do olfato",
+			"symptoms.sore-throat": "Dor de garganta",
+			"symptoms.congestion-or-runny-nose": "Congestão nasal ou coriza",
+			"symptoms.nausea-or-vomiting": "Náuseas ou vômitos",
+			"symptoms.diarrhea":"Diarréia"
+
+
 		
 		},
 		"jp: {
